@@ -71,3 +71,4 @@ plt.figure();
 
 step_series.plot(title='Log likelihood of step change location in number of tropical storms per year')
 
+plt.show()
